@@ -1,0 +1,31 @@
+{
+  "name": "blocks-function-graph",
+  "version": "1.0.0",
+  "description": "a graph dataset of shared d3 function use among blocks (d3 examples)",
+  "main": "parse-function-graph.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micahstubbs/blocks-function-graph.git"
+  },
+  "keywords": [
+    "d3",
+    "example",
+    "graph",
+    "dataset",
+    "network",
+    "function",
+    "api"
+  ],
+  "author": "@micahstubbs <micah.stubbs@gmail.com> (https://twitter.com/micahstubbs)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/micahstubbs/blocks-function-graph/issues"
+  },
+  "homepage": "https://github.com/micahstubbs/blocks-function-graph#readme",
+  "dependencies": {
+    "jsonfile": "^3.0.1"
+  }
+}
